@@ -1,0 +1,1 @@
+# Nmap 7.94 scan initiated Sun Jul  7 13:16:17 2024 as: nmap -sT -n -v -Pn -T2 --top-ports=1000 -oA top-1000-tcp-ports 192.168.1.1
